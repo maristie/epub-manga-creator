@@ -1,5 +1,9 @@
 # EPUB Manga Creator
 
-就是个把一堆漫画图片打包成epub格式的web gui
+Pack images into **single-paged** epub in a webpage.
 
-http://wing-kai.github.io/epub-manga-creator/
+Modified based on the original version which generates a double-paged version.
+
+https://maristie.com/epub-manga-creator/
+
+Thanks to the original author (https://github.com/wing-kai/epub-manga-creator)!

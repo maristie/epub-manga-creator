@@ -1,3 +1,17 @@
+# Introduction
+
+This is a JavaScript based Web tool to help transform a bunch of images and pack into a single EPUB file, which runs locally without any network traffic.
+
+The original project generates double-paged EPUB 3, while this modified version generates single-paged ones instead. That is, only one page is viewed at a time when using a EPUB reader.
+
+The default size is changed to _2400*1600_ as well.
+
+---
+
+*Chinese version follows.*
+
+---
+
 # 关于这个程序
 
 这是一个可以将多张漫画图片打包成一个EPUB文件的程序，
