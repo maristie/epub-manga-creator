@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/epub-manga-creator/static/css/main.14dd50e0.css",
+    "main.js": "/epub-manga-creator/static/js/main.b0a243ac.js",
+    "static/js/787.f8db4ba6.chunk.js": "/epub-manga-creator/static/js/787.f8db4ba6.chunk.js",
+    "index.html": "/epub-manga-creator/index.html",
+    "static/media/mimetype": "/epub-manga-creator/static/media/mimetype.163d0a1c7610c6ff76e8",
+    "main.14dd50e0.css.map": "/epub-manga-creator/static/css/main.14dd50e0.css.map",
+    "main.b0a243ac.js.map": "/epub-manga-creator/static/js/main.b0a243ac.js.map",
+    "787.f8db4ba6.chunk.js.map": "/epub-manga-creator/static/js/787.f8db4ba6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14dd50e0.css",
+    "static/js/main.b0a243ac.js"
+  ]
+}
